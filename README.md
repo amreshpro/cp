@@ -1,4 +1,4 @@
-# cp
+# cpp
 Searching in Cpp
 
 ### Linear Search
